@@ -1,0 +1,45 @@
+{
+    "login": "Login",
+    "email": "Email",
+    "password": "Password",
+    "name": "Name",
+    "gender": "Gender",
+    "birthDay": "Birth Day",
+    "notHaveAccount": "Not have account ! ",
+    "haveAccount": "Have account ! ",
+    "signUp": "Sign Up",
+    "empty": "{value} can not be empty",
+    "@empty": {
+        "description": "Empty value validate",
+        "placeholders": {
+            "value": {
+                "type": "String",
+                "example": "Bob"
+            }
+        }
+    },
+    "formateEmail": "Email not valid",
+    "formatePassword": "Password must be contains upper latter character and lower latter character and spacial character and numbers and must be at least 8 digits",
+    "noInternetAccess": "No internet connection",
+    "errorEmailFirebase": "No user found for that email or password not correct",
+    "errorPasswordFirebase": "Wrong password provided for that user.",
+    "someErrorAccords": "Some error accords ,please try again",
+    "noDataExist": "No data in server",
+    "ok": "Ok",
+    "male": "Male",
+    "female": "Female",
+    "emailIsExist": "The account already exists for that email.",
+    "addPost": "Add post ...",
+    "viewProfile": "View profile",
+    "lang": "Language",
+    "theme": "Theme",
+    "signOut": "sign out",
+    "addNewPost": "Add new post",
+    "post": "post",
+    "cancel": "Cancel",
+    "comment": "Comment",
+    "commentHint": "Add new comment ...",
+    "noImage": "No image",
+    "typingMassage": "Typing massage",
+    "send": "Send"
+}

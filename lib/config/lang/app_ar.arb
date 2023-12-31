@@ -1,0 +1,45 @@
+{
+    "login": "تسجيل الدخول",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة السر",
+    "name": "الإسم",
+    "gender": "الجنس",
+    "birthDay": "تاريخ الميلاد",
+    "notHaveAccount": "لا يوجد لديك حساب ! ",
+    "haveAccount": " يوجد لديك حساب ! ",
+    "signUp": "إنشاء حساب",
+    "empty": "{value} لا يمكن أن يكون فارغ",
+    "@empty": {
+        "description": "Empty value validate",
+        "placeholders": {
+            "value": {
+                "type": "String",
+                "example": "Bob"
+            }
+        }
+    },
+    "formateEmail": "البريد الألكتروني غير موجود ",
+    "formatePassword": "كلمة السر يجب أن تحتوي على حرف كبير وحرف صغير ورمز وأرقام وأن لا يقل طولها عن ٨ خانات",
+    "noInternetAccess": "لا يوجد اتصال بالإنترنت",
+    "errorEmailFirebase": "لا يوجد حساب لهذا البريد الإلكتروني أو كلمة السر غير صحيحة",
+    "errorPasswordFirebase": "خطأ في كلمة السر",
+    "someErrorAccords": "حدث خطأ ما الرجاء المحاولة مرة آخرى ",
+    "noDataExist": "لا يوجد معلومات بالخادم",
+    "ok": "حسنا",
+    "male": "ذكر",
+    "female": "أنثى",
+    "emailIsExist": "البريد الإلكتروني موجد بالفعل",
+    "addPost": "إضافة منشور ...",
+    "viewProfile": "زيارة الملف الشحصي",
+    "lang": "اللغة",
+    "theme": "السمة",
+    "signOut": "تسجيل الخروج",
+    "addNewPost": "إضافة منشور جديد",
+    "post": "نشر",
+    "cancel": "إلغاء",
+    "comment": "تعليق",
+    "commentHint": "أضف تعليق ...",
+    "noImage": "لا يوجد صور",
+    "typingMassage": "ادخل الرسالة",
+    "send": "إرسال"
+}
